@@ -1,0 +1,17 @@
+config.py
+archive/
+data/images*
+data/masks*
+data/res_model_predictions*
+results/
+predictions/
+CNNs/
+segmentation_model_data/
+archive/CamVid_test/
+venv/
+plots/
+__pycache__/
+.idea/
+venv*
+best_model*
+UNet_2_initial.h5
