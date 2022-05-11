@@ -1,5 +1,6 @@
 ﻿# RID - Roof information dataset
- 
+This code refers to the publication "RID—Roof Information Dataset for Computer Vision-Based Photovoltaic Potential Assessment", https://doi.org/10.3390/rs14102299.
+
 This repository includes datasets for semantic segmentation of roof superstructures and roof roof segments. The code supports data preparation, training and model evaluation. Furthermore, it includes the labels of an annotation experiment with five labelers and its evaluation.
  
 ## Getting Started
@@ -34,16 +35,18 @@ Settings should be defined in definitions.py
 It is recommended to run parts of the pipeline seperately, e.g. when training the model for semantic segmentation of roof segments, or when optimizing the model parameters.
  
 ## Deployment
- 
 Built With [Python](https://www.python.org/) 3.6
- 
 
 ## Versioning
 V0.1 Initial version
  
 ## Authors
-Author:
-See also the list of contributors who participated in this project.
+Author: Sebastian Krapf
+
+## Contributors
+Fabian Netzler, 
+Lukas Bogenrieder, 
+Nils Kemmerzell
 
 ## Credits
 This work would not have been possible without numerous python packages such as keras, segmentation models, shapely, geopandas, and more. See requirements.txt for packages used.
