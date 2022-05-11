@@ -15,6 +15,7 @@ Required packages are included in the requirements.txt.
 ### Installing
 When running the code on Windows, packages fiona, gdal, and geopandas need to be installed from wheel files. 
 When using Python 3.7, package dataclasses is already included in python and can be deleted from requirements.txt.
+Code can be used with Python 3.9 by installing packages from requirements_python_39.txt
 
 ## Running the Model/Code
 The whole pipeline can be run using main.py. The steps include:
