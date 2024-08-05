@@ -56,7 +56,7 @@ opt-einsum==3.3.0
 overpy==0.6
 packaging==21.0
 pandas==1.1.5
-Pillow==8.3.2
+Pillow==10.3.0
 pipwin==0.5.1
 protobuf==3.19.0
 pyasn1==0.4.8
