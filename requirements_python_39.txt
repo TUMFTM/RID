@@ -92,7 +92,7 @@ tifffile==2020.9.3
 typing-extensions==3.7.4.3
 tzdata==2021.2.post0
 tzlocal==3.0
-urllib3==1.26.7
+urllib3==2.6.0
 Werkzeug==2.0.2
 wrapt==1.12.1
 xlrd==2.0.1
