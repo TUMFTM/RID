@@ -100,4 +100,4 @@ zipp==3.6.0
 
 Fiona==1.8.19
 GDAL==3.2.3
-geopandas==0.8.2
+geopandas==1.1.2
