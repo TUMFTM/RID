@@ -59,7 +59,7 @@ pandas==1.1.5
 Pillow==8.3.2
 pipwin==0.5.1
 protobuf==3.19.0
-pyasn1==0.4.8
+pyasn1==0.6.3
 pyasn1-modules==0.2.8
 pycm==3.4
 pyjsparser==2.7.1
