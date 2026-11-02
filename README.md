@@ -33,7 +33,7 @@ The pipeline can be run using different input datasets:
 
 Settings should be defined in definitions.py
 
-It is recommended to run parts of the pipeline seperately, e.g. when training the model for semantic segmentation of roof segments, or when optimizing the model parameters.
+It is recommended to run parts of the pipeline separately, e.g. when training the model for semantic segmentation of roof segments, or when optimizing the model parameters.
  
 ## Deployment
 Built With [Python](https://www.python.org/) 3.6
