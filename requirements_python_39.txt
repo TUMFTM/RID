@@ -99,5 +99,5 @@ xlrd==2.0.1
 zipp==3.6.0
 
 Fiona==1.8.19
-GDAL==3.2.3
+GDAL==3.13.1
 geopandas==1.1.2
