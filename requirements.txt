@@ -21,7 +21,7 @@ dataclasses==0.8
 decorator==4.4.2
 docopt==0.6.2
 efficientnet==1.0.0
-Fiona==1.8.18
+Fiona==1.10b2
 flatbuffers==1.12
 gast==0.4.0
 GDAL==3.1.4
