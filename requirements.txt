@@ -88,7 +88,7 @@ soupsieve==2.2.1
 tensorboard==1.13.1
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
-tensorflow==1.13.1
+tensorflow==2.12.1
 tensorflow-estimator==1.13.0
 termcolor==1.1.0
 threadpoolctl==3.0.0
